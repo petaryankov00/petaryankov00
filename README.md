@@ -1,7 +1,3 @@
-<head>
-<script src="https://kit.fontawesome.com/7d1612ee15.js" crossorigin="anonymous"></script>
-</head>
-
 <h1 align='center'>
   Hello there 👋 I'm Petar Yankov 💻
 </h1>
@@ -28,7 +24,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/petar-yankov-0639011b7/">
- <img src="file:///D:/Users/User/Downloads/youtube-brands.svg" />
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:petar741012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        

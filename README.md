@@ -23,13 +23,13 @@
 <br>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/anzhela-nurieva-493513207//">
+  <a href="https://www.linkedin.com/in/petar-yankov-0639011b7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:anzzhhela-nurieva98">
+  <a href="mailto:petar741012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://www.hackerrank.com/certificates/e31f3d6770bc">
+   <a href="https://www.hackerrank.com/certificates/ee32a60d7462">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>

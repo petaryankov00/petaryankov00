@@ -28,7 +28,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/petar-yankov-0639011b7/">
- <img src= <i class="fab fa-youtube"></i> />
+ <img src="file:///D:/Users/User/Downloads/youtube-brands.svg" />
   </a>&nbsp;&nbsp;
   <a href="mailto:petar741012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        

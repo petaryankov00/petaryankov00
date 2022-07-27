@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  An Aspiring Student at Software University and University of National and World Economy
+  An Aspiring .Net Developer
 </h3>
 
 ## 🛠 &nbsp;Tech Stack
